@@ -1,0 +1,6 @@
+{
+  "name": "BrailleVision AI",
+  "description": "Professional startup-grade optical Braille OCR recognition, real-time voice guidance, text-to-Braille translations, and custom accessibility modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
